@@ -1,0 +1,21 @@
+/*
+* Emma Philbin
+* 12 April 2019
+* Semantics-horses and riding them information
+*/
+
+/* The universal selector */
+
+* {
+    
+}
+
+/* Body attributes here */
+
+body {
+
+}
+
+header {background-color: aquamarine;}
+main {background-color: mediumpurple;}
+footer {background-color: palevioletred;}
